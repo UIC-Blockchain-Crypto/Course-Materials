@@ -16,9 +16,12 @@ Note: This is not an investment course, we will not learn what crypto are good i
 
 ## How to Reach Instructor
 **Instructor Name:** Mabel Oza 
+
 **Website:** (GitHub - moza88/UIC-Chicago-Exchange-Blockchain: Resources on getting started with blockchain)
+
 **Drop-In Office Hours (in-person or virtual):** 3:00 PM to 4:15 PM Mondays & Wednesdays (Please schedule time using this link Book time with Oza, Mabel: Office Hours)
 Drop-In Hours location : TBD
+
 
 ## Course Info
 In Person Course
