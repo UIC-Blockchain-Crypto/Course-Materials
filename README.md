@@ -39,11 +39,11 @@ Your final grade will be based on the following percentages (%):
 
 **Midterm Project (20%):** Present or write a write-up on a blockchain concept (i.e. Lightning Network, Mining, Staking, etc.).
 
-**Final Project (30%):** Present a blockchain use case for an enterprise or startup and provide either a detailed write-up or demo. 
+**Final Project (25%):** Present a blockchain use case for an enterprise or startup and provide either a detailed write-up or demo. 
 
 **Assignments (20%):** Assignments are geared to prepare you for the final exam, and final project. 
 
-**Class participation (10%):** Participation in class discussions will be graded for quality, quantity, and clarity of thought. 
+**Class participation (15%):** Participation in class discussions will be graded for quality, quantity, and clarity of thought. 
 
 ## Key Dates (Subject to Change):
 Wallet Workshop - Sept 9th
@@ -58,7 +58,36 @@ Final Project - Dec 9th and Dec 11th
 Please refer to the syllabus below, regulary check it (it's a live document that is subject to change over time). 
 
 ## Slides
-All slides are below: 
+Introduction to Blockchain & Cryptocurrencies
+Consensus
+Securing Cryptocurrencies
+
+## Assignment & Rubric Materials
+Guide to Github
+
+Final Project Rubric
+
+Midterm Project Rubric
+
+## Guest Speakers
+Sophia Roman - Canton Network
+https://www.linkedin.com/in/sophia-taylor-roman/
+
+Andy Czupek - Northern Trust
+https://www.linkedin.com/in/andrewczupek
+
+Emmett Hollyer - Solana
+https://www.linkedin.com/in/emmett-hollyer/
+
+Emily Landon - The Crypto Recruiter
+https://www.linkedin.com/in/thecryptorecruiter/
+
+
+
+
+
+
+
 
 
 
