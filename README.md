@@ -23,27 +23,12 @@ Note: This is not an investment course, we will not learn what crypto are good i
 
 **Drop-In Hours location :** TBD
 
-
 ## Course Info
 In Person Course
 
 **Meeting times:** Mondays & Wednesdays, 4:30 – 5:45 pm
 
 **Classroom:** Douglass Hall 330 (Some days it'll be in Douglass Hall 170)
-
-## Grading Policy
-Grading Policy and Point Breakdown
-Your final grade will be based on the following percentages (%):
-
-**Exams (20%):** There will be one cumulative final exam that will test your ability to use different blockchain tools (you can use AI tools but the exam requires you to do different transactions on different Testnet Blockchain networks). 
-
-**Midterm Project (20%):** Present or write a write-up on a blockchain concept (i.e. Lightning Network, Mining, Staking, etc.).
-
-**Final Project (25%):** Present a blockchain use case for an enterprise or startup and provide either a detailed write-up or demo. 
-
-**Assignments (20%):** Assignments are geared to prepare you for the final exam, and final project. 
-
-**Class participation (15%):** Participation in class discussions will be graded for quality, quantity, and clarity of thought. 
 
 ## Key Dates (Subject to Change):
 Wallet Workshop - Sept 9th
@@ -59,6 +44,7 @@ Please refer to the syllabus below, regulary check it (it's a live document that
 
 ## Slides
 Introduction to Blockchain & Cryptocurrencies
+
 Consensus
 Securing Cryptocurrencies
 
@@ -66,8 +52,10 @@ Securing Cryptocurrencies
 Guide to Github
 
 Final Project Rubric
+https://uofi.app.box.com/file/1629665716592?s=2dyzx7w6tx5dqwlrvmot2bhqv72aaieg
 
 Midterm Project Rubric
+https://uofi.box.com/s/ebl4f92n98a0xnquq6ihwbcos0f80e3x
 
 ## Guest Speakers
 Sophia Roman - Canton Network
