@@ -50,6 +50,13 @@ Securing Cryptocurrencies
 
 ## Assignment & Rubric Materials
 Guide to Github
+https://github.com/git-guides
+
+Create a Wallet (Ethereum)
+https://paragraph.xyz/@uic-blockchain-crypto/create-metamask-wallet
+
+Create & Verify a Transaction (Ethereum)
+https://paragraph.xyz/@uic-blockchain-crypto/create-and-verify-a-transaction-ethereum
 
 Final Project Rubric
 https://uofi.app.box.com/file/1629665716592?s=2dyzx7w6tx5dqwlrvmot2bhqv72aaieg
