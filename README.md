@@ -44,8 +44,11 @@ Please refer to the syllabus below, regulary check it (it's a live document that
 
 ## Slides
 Introduction to Blockchain & Cryptocurrencies
+https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s
 
 Consensus
+https://uofi.box.com/s/k4xzfqhtt078mgn5m17gtoiya3z4dihf
+
 Securing Cryptocurrencies
 
 ## Assignment & Rubric Materials
