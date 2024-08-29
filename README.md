@@ -41,46 +41,56 @@ Final Project - Dec 9th and Dec 11th
 
 ## Syllabus
 Please refer to the syllabus below, regulary check it (it's a live document that is subject to change over time). 
+https://uofi.box.com/s/e7kb2689posvqu65dxumovl21jtowl2i
 
 ## Slides
-Introduction to Blockchain & Cryptocurrencies
+### Introduction to Blockchain & Cryptocurrencies
 [https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s](https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s)
 
-Blockchain Concepts
+### Blockchain Concepts
 [https://uofi.box.com/s/k4xzfqhtt078mgn5m17gtoiya3z4dihf](https://uofi.box.com/s/9h2uq3n3y5uack8e4k7x4utp89zz7j7r)
 
 Securing Cryptocurrencies
 
 ## Assignment & Rubric Materials
-Guide to Github
+### Guide to Github
 https://github.com/git-guides
 
-Create a Wallet (Ethereum)
+### Bitcoin Whitepaper
+https://bitcoin.org/bitcoin.pdf
+
+### Create a Wallet (Ethereum)
 https://paragraph.xyz/@uic-blockchain-crypto/create-metamask-wallet
 
-Create & Verify a Transaction (Ethereum)
+### Create & Verify a Transaction (Ethereum)
 https://paragraph.xyz/@uic-blockchain-crypto/create-and-verify-a-transaction-ethereum
 
-Final Project Rubric
+### Final Project Rubric
 https://uofi.app.box.com/file/1629665716592?s=2dyzx7w6tx5dqwlrvmot2bhqv72aaieg
 
-Midterm Project Rubric
+### Midterm Project Rubric
 https://uofi.box.com/s/ebl4f92n98a0xnquq6ihwbcos0f80e3x
 
 ## Guest Speakers
+### Permissioned Enterprise Networks
 Sophia Roman - Canton Network
 https://www.linkedin.com/in/sophia-taylor-roman/
 
+### Blockchain in Banking
 Andy Czupek - Northern Trust
 https://www.linkedin.com/in/andrewczupek
 
+### Solana Ecosystem
 Emmett Hollyer - Solana
 https://www.linkedin.com/in/emmett-hollyer/
 
+### Jobs in Crypto
 Emily Landon - The Crypto Recruiter
 https://www.linkedin.com/in/thecryptorecruiter/
 
-
+### Liquid Staking
+Alexander Szul - Rome Blockchain Labs Inc.
+https://www.linkedin.com/in/alexanderszul
 
 
 
