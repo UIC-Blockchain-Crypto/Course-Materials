@@ -33,7 +33,7 @@ In Person Course
 ## Key Dates (Subject to Change):
 Wallet Workshop - Sept 9th
 
-Midterm Project - Oct 10th & Oct 14th
+Midterm Project - Anytime Before October 23rd (Please let me know if you're presenting beforehand)
 
 Final Exam - Dec 2nd
 
