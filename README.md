@@ -44,10 +44,10 @@ Please refer to the syllabus below, regulary check it (it's a live document that
 
 ## Slides
 Introduction to Blockchain & Cryptocurrencies
-https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s
+[https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s](https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s)
 
-Consensus
-https://uofi.box.com/s/k4xzfqhtt078mgn5m17gtoiya3z4dihf
+Blockchain Concepts
+[https://uofi.box.com/s/k4xzfqhtt078mgn5m17gtoiya3z4dihf](https://uofi.box.com/s/9h2uq3n3y5uack8e4k7x4utp89zz7j7r)
 
 Securing Cryptocurrencies
 
