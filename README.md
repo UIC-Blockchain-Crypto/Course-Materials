@@ -43,6 +43,10 @@ Final Project - Dec 9th and Dec 11th
 Please refer to the syllabus below, regulary check it (it's a live document that is subject to change over time). 
 https://uofi.box.com/s/e7kb2689posvqu65dxumovl21jtowl2i
 
+## Group Assignment Assesment
+Fill this out so I can properly assign you to your group:
+https://forms.office.com/r/7uLEbUu6bn
+
 ## Slides
 ### Introduction to Blockchain & Cryptocurrencies
 [https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s](https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s)
@@ -50,7 +54,8 @@ https://uofi.box.com/s/e7kb2689posvqu65dxumovl21jtowl2i
 ### Blockchain Concepts
 [https://uofi.box.com/s/k4xzfqhtt078mgn5m17gtoiya3z4dihf](https://uofi.box.com/s/9h2uq3n3y5uack8e4k7x4utp89zz7j7r)
 
-Securing Cryptocurrencies
+### Securing Cryptocurrencies
+https://uofi.box.com/s/n6nirf5004uj72jvq9kp7bmk88grkao6
 
 ## Assignment & Rubric Materials
 ### Guide to Github
