@@ -8,12 +8,6 @@ Please refer to the official syllabus, below is a brief summary of class policie
 
 Note: This is not an investment course, we will not learn what crypto are good investments.
 
-## Expectations
-- This is not computer science course but we will be do light coding and get into technical details.
-- The course requires you to have access to a computer for assignments and projects (please see if you have issues getting access to a computer or internet).
-- What happens on the blockchain stays in the blockchain [FOREVER], please be responsible when you are posting content on blockchain networks (including testnet).
-- The first 4 classes are crucial, if you're still lost after the 4th class, please see me. 
-
 ## How to Reach Instructor
 **Instructor Name:** Mabel Oza 
 
@@ -29,6 +23,16 @@ In Person Course
 **Meeting times:** Mondays & Wednesdays, 4:30 – 5:45 pm
 
 **Classroom:** Douglass Hall 330 (Some days it'll be in Douglass Hall 170)
+
+## Course Materials
+Course Materials, Events, Job Board, etc.
+https://github.com/UIC-Blockchain-Crypto
+
+Blog
+https://paragraph.xyz/@uic-blockchain-crypto
+
+Web3 Activity Workshop Game
+https://web3-adventures-tan.vercel.app/
 
 ## Key Dates (Subject to Change):
 Wallet Workshop - Sept 9th
@@ -97,8 +101,11 @@ https://www.linkedin.com/in/thecryptorecruiter/
 Alexander Szul - Rome Blockchain Labs Inc.
 https://www.linkedin.com/in/alexanderszul
 
-
-
+## Expectations
+- This is not computer science course but we will be do light coding and get into technical details.
+- The course requires you to have access to a computer for assignments and projects (please see if you have issues getting access to a computer or internet).
+- What happens on the blockchain stays in the blockchain [FOREVER], please be responsible when you are posting content on blockchain networks (including testnet).
+- The first 4 classes are crucial, if you're still lost after the 4th class, please see me. 
 
 
 
