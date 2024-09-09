@@ -107,7 +107,37 @@ https://www.linkedin.com/in/alexanderszul
 - What happens on the blockchain stays in the blockchain [FOREVER], please be responsible when you are posting content on blockchain networks (including testnet).
 - The first 4 classes are crucial, if you're still lost after the 4th class, please see me. 
 
+## Wallet Workshop
+Info on Creating Wallet
 
+We’ll do a walk-through during class but if you want to get a head start here is documentation.
 
+https://support.metamask.io/getting-started/getting-started-with-metamask/
+
+https://paragraph.xyz/@uic-blockchain-crypto/create-metamask-wallet
+
+ 
+
+Bringing Personal Device
+
+We’ll have our wallet workshop on Monday, bring your laptops, and if you aren’t bringing a personal device connect with me before class.
+
+ 
+
+Already Have a Wallet
+
+If you already have a wallet, please add it to this spreadsheet (include your Github account if it’s not there).
+
+https://docs.google.com/spreadsheets/d/1ztTT6tbFNYjeaZ9bVuDeMxZm9uQEKdqPofRLsmx_R9Q/edit?usp=sharing
+
+ 
+
+You can start the web3 adventure game whenever you would like:
+
+https://web3-adventures-tan.vercel.app/
+
+ 
+
+FYI: The source code (https://github.com/UIC-Blockchain-Crypto/web3-adventures) for this game is on our Github, if you would like to make any changes put in a PR with your changes or put in any suggestions feel free to add issues. 
 
 
