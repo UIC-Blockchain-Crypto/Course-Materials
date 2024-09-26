@@ -67,6 +67,9 @@ https://uofi.box.com/s/afxgdrzn0umhro91fuj99l3b3x8qf53b
 ### CBDC, Stablecoins, and Flatcoins
 https://uofi.box.com/s/nvcwucc9z1tlznqjmdn9s56d6uyvzogv
 
+### Permissioned Networks
+https://uofi.box.com/s/j6it0vnrs1n484ga02cmrny8qomyf3xt
+
 ### Final Reivew
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
 
