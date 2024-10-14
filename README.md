@@ -70,6 +70,9 @@ https://uofi.box.com/s/nvcwucc9z1tlznqjmdn9s56d6uyvzogv
 ### Permissioned Networks
 https://uofi.box.com/s/j6it0vnrs1n484ga02cmrny8qomyf3xt
 
+### Intro to Regulations
+https://uofi.box.com/s/9eqalz744h49aujvhv5x7oa9lhvzy09n
+
 ### Final Reivew
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
 
@@ -86,11 +89,11 @@ https://paragraph.xyz/@uic-blockchain-crypto/create-metamask-wallet
 ### Create & Verify a Transaction (Ethereum)
 https://paragraph.xyz/@uic-blockchain-crypto/create-and-verify-a-transaction-ethereum
 
-### Final Project Rubric
-https://uofi.app.box.com/file/1629665716592?s=2dyzx7w6tx5dqwlrvmot2bhqv72aaieg
-
 ### Midterm Project Rubric
 https://uofi.box.com/s/ebl4f92n98a0xnquq6ihwbcos0f80e3x
+
+### Final Project Rubric
+https://uofi.box.com/s/c4y1kubvvnp9k538cyfj9dda39we81sx
 
 ## Guest Speakers
 ### Permissioned Enterprise Networks
