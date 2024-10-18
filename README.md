@@ -73,6 +73,9 @@ https://uofi.box.com/s/j6it0vnrs1n484ga02cmrny8qomyf3xt
 ### Intro to Regulations
 https://uofi.box.com/s/9eqalz744h49aujvhv5x7oa9lhvzy09n
 
+### Tokenomics
+https://uofi.box.com/s/mzy0h51peybhfayhaymu9ch22738ie04
+
 ### Final Reivew
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
 
