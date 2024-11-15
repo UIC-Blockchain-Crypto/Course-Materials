@@ -125,40 +125,15 @@ https://www.linkedin.com/in/thecryptorecruiter/
 Alexander Szul - Rome Blockchain Labs Inc.
 https://www.linkedin.com/in/alexanderszul
 
+### Chainalysis Workshop
+Jared Campbell - Solution Engineer
+https://www.linkedin.com/in/jared-campbell-6078b168/
+
 ## Expectations
 - This is not computer science course but we will be do light coding and get into technical details.
 - The course requires you to have access to a computer for assignments and projects (please see if you have issues getting access to a computer or internet).
 - What happens on the blockchain stays in the blockchain [FOREVER], please be responsible when you are posting content on blockchain networks (including testnet).
 - The first 4 classes are crucial, if you're still lost after the 4th class, please see me. 
-
-## Wallet Workshop
-Info on Creating Wallet
-
-We’ll do a walk-through during class but if you want to get a head start here is documentation.
-
-https://support.metamask.io/getting-started/getting-started-with-metamask/
-
-https://paragraph.xyz/@uic-blockchain-crypto/create-metamask-wallet
-
- 
-
-Bringing Personal Device
-
-We’ll have our wallet workshop on Monday, bring your laptops, and if you aren’t bringing a personal device connect with me before class.
-
- 
-
-Already Have a Wallet
-
-If you already have a wallet, please add it to this spreadsheet (include your Github account if it’s not there).
-
-https://docs.google.com/spreadsheets/d/1ztTT6tbFNYjeaZ9bVuDeMxZm9uQEKdqPofRLsmx_R9Q/edit?usp=sharing
-
- 
-
-You can start the web3 adventure game whenever you would like:
-
-https://web3-adventures-tan.vercel.app/
 
  
 
