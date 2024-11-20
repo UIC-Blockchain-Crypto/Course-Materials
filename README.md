@@ -82,7 +82,7 @@ https://uofi.box.com/s/gvxylqezrqyhumw7yb14t8fk0u0yqjkv
 ### IPFS
 https://uofi.box.com/s/9a0nsvy2i4ys93anl00e5tez5zuze60s
 
-### Final Reivew
+### Final Project
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
 
 ## Assignment & Rubric Materials
@@ -100,9 +100,6 @@ https://paragraph.xyz/@uic-blockchain-crypto/create-and-verify-a-transaction-eth
 
 ### Midterm Project Rubric
 https://uofi.box.com/s/ebl4f92n98a0xnquq6ihwbcos0f80e3x
-
-### Final Project Rubric
-https://uofi.box.com/s/c4y1kubvvnp9k538cyfj9dda39we81sx
 
 ## Guest Speakers
 ### Permissioned Enterprise Networks
