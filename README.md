@@ -82,8 +82,11 @@ https://uofi.box.com/s/gvxylqezrqyhumw7yb14t8fk0u0yqjkv
 ### IPFS
 https://uofi.box.com/s/9a0nsvy2i4ys93anl00e5tez5zuze60s
 
-### Final Project
+### Final Project Guidelines
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
+
+### Peer Evaluation Assesment 
+https://form.jotform.com/243248551813154
 
 ## Assignment & Rubric Materials
 ### Guide to Github
