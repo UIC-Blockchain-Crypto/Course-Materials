@@ -85,6 +85,9 @@ https://uofi.box.com/s/9a0nsvy2i4ys93anl00e5tez5zuze60s
 ### Digital Payments
 https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s
 
+### Decentralized ID
+https://uofi.box.com/s/t0g8rcivxagc6nyqcq7bu9xhgcbkiupu
+
 ### Final Project Guidelines
 https://uofi.box.com/s/joqqvk824stvj1tupmpp92183qh2cyw0
 
