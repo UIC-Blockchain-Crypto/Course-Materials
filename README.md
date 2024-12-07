@@ -83,7 +83,7 @@ https://uofi.box.com/s/gvxylqezrqyhumw7yb14t8fk0u0yqjkv
 https://uofi.box.com/s/9a0nsvy2i4ys93anl00e5tez5zuze60s
 
 ### Digital Payments
-https://uofi.box.com/s/r3gakbpkb0g73d60pea7hragv8d1az6s
+https://uofi.box.com/s/h9zzwzxin3acyfjnlzkqr38gskc153k2
 
 ### Decentralized ID
 https://uofi.box.com/s/t0g8rcivxagc6nyqcq7bu9xhgcbkiupu
